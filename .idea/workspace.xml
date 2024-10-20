@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da5a973c-5e15-4894-91fe-7a5f7f9f4bb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/djangoProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/motorciclodiesel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/migrations/0010_curso_link_informacoes_curso_link_interesses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/cadastroCurso.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/calendario.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/calendario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/detalhesCursos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/editcursoo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/eletricista.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/feedback.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/formInteresse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/Group 63 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/Group 68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/LOGOV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/PoweredbySmart.EDUC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/UsinagemCNC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/arcondicionado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/bannerTI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/bigData.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/cardCarrossel1 (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/carrosselIMG/cardCarrossel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/carrosselIMG/eletricistaInstala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/carrosselIMG/inspetorQuali (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/carrosselIMG/inspetorQuali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/carrosselIMG/trilhaAutomob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/computacao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/criacaoJogos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/códigos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/eletricistaInstalador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/eletricistaautomotivo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/gameDesign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/informatica.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/ingecaodeveiculosleves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/ingecaodiesel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/inicio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/inspetorQuali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/iot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/logoSmartEDUC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/motorciclodiesel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/motorciclootto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/oracle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/programacaoEtralala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/projetosistema 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/sabonete.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/segInfra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/semaproveitamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/senai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/solidworks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/sucessemensage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/suspensao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/torneiromecanico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/torneiromecanico2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/trilha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/trilhaAutomob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/vcvenceu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/videoo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/images/webDesign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/inspetorQuali.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/loginADM.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/modelo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/nuvem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/relatorioInteresses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/segInfra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/sobreEscola.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/telaSuspensa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/trilhaAuto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/static/totem/trilhaTI.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/cadastroCurso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/editcurso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/loginADM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/relatorioFeedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/relatorioGeral.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/adm/relatorioInteresses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/calendario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/cursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/detalhesCursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/formInteresse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/menus/menuADM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/menus/menuREL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/menus/telaMenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/sobreEscola.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/telaSuspensa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhaAutomob.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhaEletrica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhaInspetorQuali.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhasTI/segInfra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhasTI/trilhaNuvem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/templates/totem/trilhas/trilhasTI/trilhaTI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/totem/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ng9WsVb0ILgmM0TbAp0SEE87Wt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/luzlu/OneDrive/Área de Trabalho/TCC/djangoProject1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="djangoProject1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5a973c-5e15-4894-91fe-7a5f7f9f4bb6" name="Changes" comment="" />
+      <created>1729383887012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729383887012</updated>
+      <workItem from="1729383888064" duration="3665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
