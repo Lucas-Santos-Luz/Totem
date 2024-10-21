@@ -434,7 +434,7 @@ body{
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
+    text-align: justify;
 }
 
 footer img {
@@ -457,8 +457,9 @@ footer {
     display: flex;
     background-color: #282828;
     align-items: center;
-    padding: 2vw;
-    gap: 1vw;
+    padding: 2.6vw;
+    gap: 2.8vw;
+    border-top: solid 2px var(--vermelho);
 }
 
 .containerIMG {
@@ -467,9 +468,71 @@ footer {
 
 .containerIMG img {
     width: 25vw;
+    margin-right: 20px;
 }
 
 .tituloPagina {
     width: 100%;
 
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+  padding: 20px;
+  width: 60%;
+    margin: 2.5vw;
+    border-radius: .5vw;
+}
+
+.stars {
+  display: flex;
+  grid-gap: 0.125rem;
+  gap: 0.125rem;
+  color: rgb(238, 203, 8);
+    align-items: center;
+}
+
+.star {
+  height: 3vw;
+  width: 3vw;
+}
+
+.infos {
+  margin-top: 1rem;
+}
+
+.infos p {
+
+}
+.date-time {
+  color: rgba(7, 63, 216, 1);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.description {
+  margin-top: 0.4rem;
+  line-height: 1.625;
+  color: #333;
+    font-size: 1.5rem;
+}
+
+.author {
+  margin-top: 1.3rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  color: var(--azul);
+}
+
+.avaliacoes {
+    width: 100%;
+    display: flex;
+    background-color: #282828;
+    justify-content: center;
+    border-top: var(--branco) 1.5px solid;
+    align-items: center;
+    flex-direction: column;
 }

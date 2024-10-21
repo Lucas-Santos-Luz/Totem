@@ -34,7 +34,8 @@ def relatorioGeral(request):
     return render(request, 'totem/adm/relatorioGeral.html')
 
 def sobreEscola(request):
-    return render(request, 'totem/sobreEscola.html')
+    feedbacks = Feedback.objects.all()
+    return render(request, 'totem/sobreEscola.html', {'feedbacks': feedbacks})
 
 
 def feedback(request):
@@ -113,7 +114,7 @@ def detalhesCursos(request, curso_id):
 
 def lista_feedbacks(request):
     feedbacks = Feedback.objects.all()  # Busca todos os feedbacks no banco
-    return render(request, 'totem/feedback.html', {'feedback': feedbacks})
+    return render(request, 'totem/sobreEscola.html', {'feedback': feedbacks})
 
 
 def grafico_feedbacks(request):
